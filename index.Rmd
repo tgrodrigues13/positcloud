@@ -1,0 +1,12 @@
+---
+title: "My Repo Site"
+author: "Tyler Rodrigues"
+date: "2024-02-22"
+output: html_document
+---
+
+```{r}
+# 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
+```
+
+## My GitHub Repo Site
